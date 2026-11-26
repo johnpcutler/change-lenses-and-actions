@@ -1,5 +1,7 @@
 # Change Lenses and Actions
 
+[![Deploy on MindPal](https://mindpal.space/badges/deploy-on-mindpal.svg)](https://mindpal.space/skills/com-b-diagnostic?utm_source=github&utm_medium=readme_button)
+
 Someone isn't doing the thing — and you can't figure out why.
 
 Maybe that someone is you. Maybe you're designing a product and users aren't completing onboarding. Maybe you're trying to help a team of eight adopt a practice — or shift how a thousand people work. You've tried reminders, trainings, nudges, new tools — nothing sticks.
